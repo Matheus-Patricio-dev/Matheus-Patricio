@@ -17,6 +17,10 @@ const tabsConfig = [
     text: "Skills",
     link: "/skills",
   },
+  {
+    text: "Articles",
+    link: "/articles"
+  }
 ];
 
 interface TabProps {
