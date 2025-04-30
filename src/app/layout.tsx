@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Matheus Patricio",
-  description: "Desenvolvedor Full Stack apaixonado por criar soluções inovadoras. Especializado em React, Node.js e tecnologias modernas de desenvolvimento web. Explore meus projetos e habilidades técnicas.",
+  description: "Desenvolvedor de software apaixonado por criar soluções inovadoras. Especializado em React, Node.js e tecnologias modernas de desenvolvimento web. Explore meus projetos e habilidades técnicas.",
 };
 
 export default function RootLayout({

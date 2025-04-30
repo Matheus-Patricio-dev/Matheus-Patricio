@@ -4,9 +4,9 @@ export default function Home() {
       <div className="w-full max-w-3xl">
         <div>
           <p className="text-gray-500">
-            I am a Software Engineer with experience in modern web development. I work with languages
+            I am a Software developer with experience in modern full-stack development. I work with languages
             like Javascript/Typescript, using leading frameworks such as React and NodeJS. Also, Im preparing 
-            myself to AWS Certified Cloud Practitioner. These skills enable me to create high-quality web applications with a positive impact
+            myself to AWS Certified Cloud Practitioner. These skills enable me to create high-quality web applications with a positive impact.
           </p>
         </div>
 
@@ -17,7 +17,7 @@ export default function Home() {
               <div className="absolute w-3 h-3 bg-gray-500 rounded-full mt-1.5 -start-1.5 border "></div>
               <div className="flex flex-row items-center gap-2">
                 <div className="text-md font-medium text-gray-900">
-                Front-end Developer
+                Software Developer 
                 </div>
                 <div className="inline-block uppercase text-xs rounded-full px-1 py-0 border border-gray-500 text-gray-500">
                   present
