@@ -1,9 +1,9 @@
 'use client'
 import { motion } from "framer-motion";
 import Image from 'next/image'
-import logoNext from "../../../../public/icons-nextjs.svg"
 import logoNode from "../../../../public/logos--nodejs-icon-alt.svg";
-import logoJS from "../../../../public/logos--js.svg";
+import logoReact from "../../../../public/devicon--react.svg";
+
 
 
 
@@ -14,7 +14,7 @@ const ProjectsData = [
     name: "NeoOrbit E-commerce ",
     description: "NeoOrbit E-commerce is a project developed in HTML, CSS and Javascript as a integrative project for the course of Introduction of Programing focus on Front-end. NeoOrbit is a fictitious company that sells satellite service plans and sells satellite models to other companies. ",
     link: "https://neo-orbit.vercel.app/",
-    image: logoJS.src,
+    image: logoReact.src,
   },
   {
     id: 2,
