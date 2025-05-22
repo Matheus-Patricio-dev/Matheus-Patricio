@@ -12,7 +12,7 @@ const ProjectsData = [
   {
     id: 1,
     name: "NeoOrbit E-commerce ",
-    description: "NeoOrbit E-commerce is a project developed in HTML, CSS and Javascript as a integrative project for the course of Introduction of Programing focus on Front-end. NeoOrbit is a fictitious company that sells satellite service plans and sells satellite models to other companies. ",
+    description: "NeoOrbit E-commerce is a project developed in HTML, CSS, Javascript, React, Vite and TailwindCss as a integrative project for the course of Introduction of Programing focus on Front-end. NeoOrbit is a fictitious company that sells satellite service plans and sells satellite models to other companies. ",
     link: "https://neo-orbit.vercel.app/",
     image: logoReact.src,
   },
