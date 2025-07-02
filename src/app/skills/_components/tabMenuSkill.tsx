@@ -9,7 +9,8 @@ import logoType from "../../../../public/logos--typescript-icon.svg";
 import logoNode from "../../../../public/logos--nodejs-icon-alt.svg";
 import logoExpress from "../../../../public/icons--expressjs.svg";
 import logoCypress from "../../../../public/devicon-plain--cypressio.svg";
-import logoPhp from "../../../../public/icons--php.svg";
+import logoZod from "../../../../public/zod.svg";
+import logoAxios from "../../../../public/axios.svg";
 
 
 const skills = [
@@ -47,6 +48,16 @@ const skills = [
     id: 7,
     name: "Cypress",
     image: logoCypress.src,
+  },
+  {
+    id: 8,
+    name: "Axios",
+    image: logoAxios.src,
+  },
+  {
+    id: 9,
+    name: "Zod",
+    image: logoZod.src,
   },
 ];
 
