@@ -11,6 +11,7 @@ import logoExpress from "../../../../public/icons--expressjs.svg";
 import logoCypress from "../../../../public/devicon-plain--cypressio.svg";
 import logoZod from "../../../../public/zod.svg";
 import logoAxios from "../../../../public/axios.svg";
+import logoElementor from '../../../../public/elementor svg.svg'
 
 
 const skills = [
@@ -58,6 +59,11 @@ const skills = [
     id: 9,
     name: "Zod",
     image: logoZod.src,
+  },
+  {
+    id: 10,
+    name: "Elementor",
+    image: logoElementor.src,
   },
 ];
 

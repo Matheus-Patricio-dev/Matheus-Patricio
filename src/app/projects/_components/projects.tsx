@@ -3,8 +3,7 @@ import { motion } from "framer-motion";
 import Image from 'next/image'
 import logoNode from "../../../../public/logos--nodejs-icon-alt.svg";
 import logoReact from "../../../../public/devicon--react.svg";
-import logoBasketMap from '../../../../public/project-images/logoBasqueteColorido.svg'
-import logoNeoOrbit from '../../../../public/project-images/logoNeoorbit.png'
+import logoElementor from "../../../../public/elementor svg.svg"
 
 
 
@@ -42,6 +41,14 @@ const ProjectsData = [
     link: "https://github.com/Matheus-Patricio-dev/NeoOrbitAPI",
     stacks: ['Typescript','Node.Js', 'Supabase'],
     image: logoNode.src,
+  },
+  {
+    id: 5,
+    name: "Movimento Futuro",
+    description: "Movimento Futuro is a web application built with WordPress, using Elementor and PHP. The project was developed collaboratively by a team of developers and UI/UX designers, ensuring a modern, functional, and user-centered experience.",
+    link: "https://movimentofuturo.org/",
+    stacks: ['Wordpress','Elementor', 'PHP'],
+    image: logoElementor.src,
   },
 ];
 
