@@ -2,22 +2,6 @@
   "projectsPT": [
     {
       "id": 1,
-      "name": "Payform Soluções em pagamentos",
-      "description": "Plataforma de Link de pagamentos que atua como intermediadora entre vendas em comércios e empresas. Utilizando Node.js, Firebase, consumindo as APIs Zoop e Delta no back-end e React.js, TailwindCss para o front-end da aplicação.",
-      "stacks": ["React","Zod","JWT","React-Hook-Form","Node","Firebase","Typescript","TailwindCss","Delta","Zoop"],
-      "link": "https://web.payform.com.br/",
-      "image": "/devicon--react.svg"
-    },
-    {
-      "id": 2,
-      "name": "Notificação Digital",
-      "description": "Planejamento e criação de arquitetura de banco de dados MySQL e desenvolvimento de API REST para aplicação em React de gestão e notificação de cobranças únicas e recorrentes para comércios.",
-      "stacks": ["PHP","JWT","MySQL","Hostinger"],
-      "link": "https://notificacaodigital.online",
-      "image": "/icons--php.svg"
-    },
-    {
-      "id": 3,
       "name": "BasketMap",
       "description": "BasketMap é uma plataforma colaborativa para mapear quadras de basquete, onde qualquer pessoa pode registrar locais, dias de jogo e outras informações relevantes. Foi criada para resolver um problema comum entre jogadores amadores: a dificuldade de encontrar quadras disponíveis por perto. Nossa missão é fortalecer a comunidade do basquete promovendo conexão, inclusão e novas amizades dentro e fora das quadras.",
       "stacks": ["React","Zod","React-Hook-Form","Node","Supabase","Typescript","TailwindCss","Vite"],
@@ -25,28 +9,20 @@
       "image": "/devicon--react.svg"
     },
     {
-      "id": 4,
+      "id": 2,
       "name": "NeoOrbit E-commerce",
       "description": "NeoOrbit E-commerce é um projeto desenvolvido em HTML, CSS, Javascript, React, Vite e TailwindCss como projeto integrador do curso de Introdução à Programação focado em Front-end. NeoOrbit é uma empresa fictícia que vende planos de serviços de satélite e modelos de satélites para outras empresas.",
       "stacks": ["HTML","CSS","Javascript","Figma","Axios","Vite"],
-      "link": "https://neo-orbit.vercel.app/",
-      "image": "/devicon--react.svg"
+      "image": "/devicon--react.svg",
+      "link": "https://neo-orbit.vercel.app/"
     },
     {
-      "id": 5,
+      "id": 3,
       "name": "NeoOrbit API",
       "description": "NeoOrbit é um projeto que está sendo desenvolvido em NodeJS Express com PostgreSQL. É uma API REST que armazenará os dados dos satélites e planos de serviços que a NeoOrbit oferece.",
       "stacks": ["Typescript","Node.Js","Supabase"],
-      "link": "https://github.com/Matheus-Patricio-dev/NeoOrbitAPI",
-      "image": "/logos--nodejs-icon-alt.svg"
-    },
-    {
-      "id": 6,
-      "name": "Movimento Futuro",
-      "description": "Movimento Futuro é uma aplicação web construída em WordPress, utilizando Elementor e PHP. O projeto foi desenvolvido de forma colaborativa por uma equipe de desenvolvedores e designers UI/UX, garantindo uma experiência moderna, funcional e centrada no usuário.",
-      "stacks": ["Wordpress","Elementor","PHP"],
-      "link": "https://movimentofuturo.org/",
-      "image": "/elementor svg.svg"
+      "image": "/logos--nodejs-icon-alt.svg",
+      "link": "https://github.com/Matheus-Patricio-dev/NeoOrbitAPI"
     }
   ]
 }

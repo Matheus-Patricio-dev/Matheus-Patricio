@@ -10,6 +10,10 @@ const tabsConfig = [
     link: "/",
   },
   {
+    text: "Cases",
+    link: "/cases",
+  },
+  {
     text: "Projects",
     link: "/projects",
   },
