@@ -23,7 +23,7 @@ export default function Projects() {
               key={project.id}
               className="mt-5 text-left"
             >
-              <a target="_blank" rel="noopener noreferrer" href={project.name}>
+              <a target="_blank" rel="noopener noreferrer" href={project.link}>
                 <Image
                   src={project.image}
                   width={30}
