@@ -1,6 +1,8 @@
 "use client"; // 👈 obrigatório
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
-import { GitHubLogoIcon, LinkedInLogoIcon } from "@radix-ui/react-icons";
+import { LinkedInLogoIcon, GitHubLogoIcon, EnvelopeClosedIcon } from "@radix-ui/react-icons";
+import { FaGithub, FaLinkedin, FaEnvelope, FaWhatsapp } from "react-icons/fa";
+
 import ButtonShapeTabs from "./tabMenu";
 
 
@@ -26,10 +28,16 @@ export function Header() {
             <div className="flex flex-row justify-between items-center mt-6">
               <div className="flex flex-row gap-x-3">
                 <a href="https://github.com/Matheus-Patricio-dev">
-                  <GitHubLogoIcon className="w-6 h-6" />
+                  <FaGithub className="w-6 h-6" />
                 </a>
                 <a href="https://www.linkedin.com/in/matheuspatriciof/">
-                  <LinkedInLogoIcon className="w-6 h-6" />
+                  <FaLinkedin className="w-6 h-6" />
+                </a>
+                <a href="mailto:contato.matheuspatricio@gmail.com">
+                   <FaEnvelope className="w-6 h-6" />
+                </a>
+                <a href="https://wa.me/5521965439289">
+                   <FaWhatsapp className="w-6 h-6" />
                 </a>
               </div>
             </div>

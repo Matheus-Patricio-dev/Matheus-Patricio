@@ -12,6 +12,8 @@ import logoCypress from "../../../../public/devicon-plain--cypressio.svg";
 import logoZod from "../../../../public/zod.svg";
 import logoAxios from "../../../../public/axios.svg";
 import logoElementor from '../../../../public/elementor svg.svg'
+import logoAws from '../../../../public/icons8-aws.svg'
+import logoJWT from '../../../../public/icons8-jwt-50.svg'
 
 
 const skills = [
@@ -65,6 +67,17 @@ const skills = [
     name: "Elementor",
     image: logoElementor.src,
   },
+    {
+    id: 11,
+    name: "JWT",
+    image: logoJWT.src,
+  },
+    {
+    id: 12,
+    name: "AWS",
+    image: logoAws.src,
+  },
+
 ];
 
 

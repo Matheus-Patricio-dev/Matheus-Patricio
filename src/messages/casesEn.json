@@ -2,6 +2,14 @@
     "CasesEN" : [
     {
       "id": 1,
+      "name": "SoulFLow",
+      "description": "Payment link platform that acts as an intermediary between sales in shops and companies. Using Node.js, Firebase, consuming Zoop and Delta APIs in the backend, and React.js with TailwindCss for the frontend.",
+      "stacks": ["React","Zod","JWT","React-Hook-Form","Node","Firebase","Typescript","TailwindCss","Delta","Zoop"],
+      "image": "/devicon--react.svg",
+      "link" : "https://github.com/Matheus-Patricio-dev/soulflow"
+    },
+    {
+      "id": 2,
       "name": "Payform Payment Solutions",
       "description": "Payment link platform that acts as an intermediary between sales in shops and companies. Using Node.js, Firebase, consuming Zoop and Delta APIs in the backend, and React.js with TailwindCss for the frontend.",
       "stacks": ["React","Zod","JWT","React-Hook-Form","Node","Firebase","Typescript","TailwindCss","Delta","Zoop"],
@@ -9,7 +17,7 @@
       "link" : "https://web.payform.com.br/"
     },
     {
-      "id": 2,
+      "id": 3,
       "name": "Digital Notification",
       "description": "Planning and creation of MySQL database architecture and development of a REST API for a React application for managing and notifying one-time and recurring charges for businesses.",
       "stacks": ["PHP","JWT","MySQL","Hostinger"],
@@ -17,7 +25,7 @@
       "link" : "https://notificacaodigital.online/login"
     },
     {
-      "id": 3,
+      "id": 4,
       "name": "Movimento Futuro",
       "description": "Movimento Futuro is a web application built with WordPress, using Elementor and PHP. The project was developed collaboratively by a team of developers and UI/UX designers, ensuring a modern, functional, and user-centered experience.",
       "stacks": ["Wordpress","Elementor","PHP"],

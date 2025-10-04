@@ -9,7 +9,7 @@ export default function Page() {
     <div className="flex items-center justify-between w-full flex-col pb-8 px-8">
       <div className="w-full max-w-3xl">
         <div className="flex items-center gap-3">
-          <h1 className="font-medium text-gray-900 text-lg">Projects</h1>
+          <h1 className="font-medium text-gray-900 text-lg">Cases</h1>
           <button
             onClick={toggleLanguage}
             className="px-2 py-0.5 rounded-md border border-gray-300 

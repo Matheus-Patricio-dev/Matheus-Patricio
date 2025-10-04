@@ -2,14 +2,22 @@
     "CasesPT": [
     {
       "id": 1,
+      "name": "SoulFlow",
+      "description": "Micro-SaaS for appointment management for nutritionists, therapists, and psychologists. Using Node, Supabase, React, and TailwindCss. Integration with recurring payments and Pix with Abacate Pay.",
+      "stacks": ["React","Yup","JWT","Node","Supabase","Typescript","TailwindCss","Abacate Pay"],
+      "image": "/devicon--react.svg",
+      "link": "https://github.com/Matheus-Patricio-dev/soulflow"
+    },
+    {
+      "id": 2,
       "name": "Payform Soluções em pagamentos",
       "description": "Plataforma de Link de pagamentos que atua como intermediadora entre vendas em comércios e empresas. Utilizando Node.js, Firebase, consumindo as APIs Zoop e Delta no back-end e React.js, TailwindCss para o front-end da aplicação.",
-      "stacks": ["React","Zod","JWT","React-Hook-Form","Node","Firebase","Typescript","TailwindCss","Delta","Zoop"],
+      "stacks": ["React","Yup","JWT","Node","Firebase","Typescript","TailwindCss","Delta","Zoop"],
       "image": "/devicon--react.svg",
       "link": "https://web.payform.com.br/"
     },
     {
-      "id": 2,
+      "id": 3,
       "name": "Notificação Digital",
       "description": "Planejamento e criação de arquitetura de banco de dados MySQL e desenvolvimento de API REST para aplicação em React de gestão e notificação de cobranças únicas e recorrentes para comércios.",
       "stacks": ["PHP","JWT","MySQL","Hostinger"],
@@ -17,7 +25,7 @@
       "link": "https://notificacaodigital.online"
     },
     {
-      "id": 6,
+      "id": 4,
       "name": "Movimento Futuro",
       "description": "Movimento Futuro é uma aplicação web construída em WordPress, utilizando Elementor e PHP. O projeto foi desenvolvido de forma colaborativa por uma equipe de desenvolvedores e designers UI/UX, garantindo uma experiência moderna, funcional e centrada no usuário.",
       "stacks": ["Wordpress","Elementor","PHP"],
