@@ -9,8 +9,9 @@ export default function Home() {
             Hello, my name is Matheus Patricio and I am a Software Developer with strong experience as a Fullstack Developer.
             My aim is to deliver impactful solutions through technology — from designing robust database architectures to crafting seamless end-user experiences.
             I am specialized in ReactJS, NodeJS, Express and NextJS, with that I bring solid knowledge of PHP (including Laravel), Docker and cloud computing, having an AWS Cloud Practitioner certification. 
-            With this skill set, I am capable of building high-quality, scalable applications that will contribute to your company's sucess.
+            With this skill set, I am capable of building high-quality, scalable applications that will contribute to your company&apos;s success.
           </p>
+
         </div>
 
         <div className="mt-12">
